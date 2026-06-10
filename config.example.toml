@@ -325,6 +325,9 @@ api_key = ""
 
 [ui]
 # UI related settings
+# Default UI language (e.g. "zh", "en", "pt")
+language = "pt"
+
 # 是否隐藏日志信息
 # Whether to hide logs in the UI
 hide_log = false

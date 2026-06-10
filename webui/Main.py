@@ -117,6 +117,7 @@ support_locales = [
     "vi-VN",
     "th-TH",
     "tr-TR",
+    "pt-BR",
 ]
 
 
