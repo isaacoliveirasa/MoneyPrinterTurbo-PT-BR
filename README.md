@@ -23,7 +23,7 @@ Basta fornecer um <b>tema</b> ou <b>palavra-chave</b> para o vídeo, e o sistema
 
 <h4>Interface Web (WebUI)</h4>
 
-![](docs/webui.jpg)
+![](docs/webui.jpg?v=2)
 
 <h4>Interface de API</h4>
 
